@@ -8,3 +8,5 @@ This simplified version includes functionalities for:
 - Wagers
 - Hit
 - and a couple others...
+
+![Ruby-Blackjack](https://i.imgur.com/L2ogUvk.png)
