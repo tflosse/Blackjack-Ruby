@@ -9,4 +9,5 @@ This simplified version includes functionalities for:
 - Hit
 - and a couple others...
 
+Direct [link](https://repl.it/@tflosse/console-blackjack) to my Repl.
 ![Ruby-Blackjack](https://i.imgur.com/L2ogUvk.png)
