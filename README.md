@@ -1,6 +1,7 @@
 ##### Those Diamonds are Ruby's...
 
 Find a console version of my Ruby Blackjack [here](https://console-blackjack.tflosse.repl.run/) - Repl.run
+![run view](https://i.imgur.com/vLbt9ws.png)
 
 This simplified version includes functionalities for:
 - New deck
